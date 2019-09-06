@@ -32,7 +32,12 @@ def monopoly_with_third_tier
 	      :three_pieces_owned => {},
 	      :four_pieces_owned => {}
 	    },
-	    :names => {}
+	    :names => {
+	      :names_1 => {},
+	      :names_2 =>{},
+	      :names_3 => {},
+	      :names_4 => {}
+	    }
 	  }
 	}
 end
